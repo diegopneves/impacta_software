@@ -1,0 +1,33 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: verdana;
+}
+
+.container{
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 0 2%;    
+}
+
+.clear{
+    clear: both;
+}
+
+.descricao-home{
+	background: #448aff;
+	padding: 20px 0;
+	text-align: center;
+	color: white;
+}
+
+.descricao-home a{
+    float: right;
+    padding: 8px;
+    color: white;
+}
+
+.descricao-home h2{
+    float: left;
+}
